@@ -1,10 +1,7 @@
-
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-# include "hex.h" 
-
-#define SIZE 10000
+//#include <string.h>
+#include "hex.h" 
 
 
 void hexDump ( void *addr, int len) {
